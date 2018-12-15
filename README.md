@@ -3,21 +3,16 @@
 Este é um projeto solicitado pela udacity para avaliação.
 
 ## Objetivo do projeto
----
+
 O projeto foca em desenvolver o site responsivo, de acordo com acessibilidade fazendo funcionar o leitor de tela corretamente e armazenar o cache para utilizar offline.
 
 ## Como verificar
----
-1- Primeiro tenha o arquivo baixado : https://github.com/ngemir/projeto-restaurante.git;
-
-2- Utilizando o Prompt de Comando, vá até o local do arquivo e tenha instalado o servidor local, eu utilizei o Web Server "npm i local-web-server -g", depois execute o "ws -p 8000" para utilizar o localhost com a porta 8000;
-
-3- Utilizando a ferramenta do desenvolvedor (F12) no navegador, pode verificar se está responsivo, na aba "Application" pode ser verificado o Web server e também o cache armazenado;
-
-4- Para testar o leitor de tela, utilizei o Chrome Vox : "https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn", e pode verificar os itens utilizando:
-	- Tab : próximo item.;
-	- Enter : Selecionar item;
-	
+1 - Primeiro tenha o arquivo baixado : 
+2 - Utilizando o Prompt de Comando, vá até o local do arquivo e tenha instalado o servidor local, eu utilizei o Web Server "npm i local-web-server -g", depois execute o "ws -p 8000" para utilizar o localhost com a porta 8000.
+3 - Utilizando a ferramenta do desenvolvedor (F12) no navegador, pode verificar se está responsivo, na aba "Application" pode ser verificado o Web server e também o cache armazenado.
+4 - Para testar o leitor de tela, utilizei o Chrome Vox : "https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn", e pode verificar os itens utilizando:
+	- Tab : próximo item.
+	- Enter : Selecionar item.
 ---
 Obrigado por Avaliar :)
 
